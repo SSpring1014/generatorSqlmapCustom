@@ -1,0 +1,2 @@
+# generatorSqlmapCustom
+这个项目是mybatis的逆向工程，作用：根据数据库生成po及mapper
