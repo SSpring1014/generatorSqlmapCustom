@@ -1,4 +1,4 @@
-package cn.itcast.ssm.po;
+package com.ow.ssm.po;
 
 import java.util.Date;
 
